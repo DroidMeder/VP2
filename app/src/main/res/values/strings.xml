@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VP</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="fragment1">fragment1</string>
+    <string name="count">count</string>
+    <string name="hi">hihi</string>
+</resources>
