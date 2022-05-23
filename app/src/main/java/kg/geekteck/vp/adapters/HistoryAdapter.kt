@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import kg.geekteck.vp.R
 import kg.geekteck.vp.databinding.ItemBinding
 
-class HistoryAdapter(private var list: ArrayList<Int>,
+class HistoryAdapter(private var list: ArrayList<Int>
 ) : RecyclerView.Adapter<HistoryAdapter.ImageHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ImageHolder {
